@@ -1,0 +1,22 @@
+#book {
+    display: flex;
+    justify-content: center;
+}
+
+#portada {
+    height: 12rem;
+    border-radius: 7%;
+    margin: 1rem;
+}
+
+.description {
+    font-family: 'Balsamiq Sans', cursive;
+    padding: 0.3rem;
+    text-align: center;
+}
+
+.loading {
+    font-family: 'Balsamiq Sans', cursive;
+    padding: 0.3rem;
+    text-align: center;
+}

@@ -1,0 +1,55 @@
+.NavBarItems {
+    background-color: rgb(49, 148, 209);
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(22, 81, 117);
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.navbar-logo {
+    color: white; 
+    justify-self: start;
+    margin-left: 2rem;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+
+#cartWidget {
+    text-decoration: none;
+}
+
+.homeLink {
+    text-decoration: none;
+}
+
+.fa-cloud {
+    margin-left: 0.5rem;
+    padding: 0.5rem;
+}
+
+.nav-menu {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 0.5rem;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    justify-content: end;
+    margin-right: 2rem;
+}
+
+.nav-links {
+    color: white;
+    text-decoration: none;
+    padding-top: 1.4rem;
+    padding-bottom: 1.4rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.nav-links:hover {
+    background-color: turquoise;
+    border-radius: 5%;
+}

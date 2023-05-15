@@ -1,0 +1,33 @@
+#books {
+    margin-top: 2rem;
+}
+
+.itemList {
+    font-family: 'Balsamiq Sans', cursive;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+#containerContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+#portadaHome {
+    height: 12rem;
+    border-radius: 5%;
+    margin: 1rem;
+}
+
+#home {
+    display: flex;
+    justify-content: center;
+}
+
+.homeDescription {
+    font-family: 'Balsamiq Sans', cursive;
+    padding: 0.3rem;
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+footer {
+    height: 2.5rem;
+    width: 100%;
+    background-color: rgb(49, 148, 209);
+    border-top: 1px solid rgb(22, 81, 117);
+    display: flex;
+    align-items: center;
+}
+
+.cierre {
+    color: white;
+    font-family: 'Balsamiq Sans', cursive;
+    padding-left: 1rem;
+}
